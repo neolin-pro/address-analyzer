@@ -609,4 +609,4 @@ streamlit run address_analyzer.py
 
 ⭐ **If you find this project helpful, please consider giving it a star!**
 
-💡 **Have questions or suggestions?** Open an issue or reach out via email.
+**Built with ❤️ using Python and Streamlit **
